@@ -1,0 +1,17 @@
+As with other topic modeling techniques it is very complex, indeed it is part of
+a large branch of mathematics called "PGM" Probabilistic Graphical Models, this
+is the theory to fully understand it.
+
+Anyway in NLP not everybody have this knowledge so they still use it, and each
+word has a weight associated which states how much that word is important for
+that topic.
+
+Found out another trick to evaluate the number of topics:
+Coherence and Perplexity metrics, again no silver bullet but useful
+
+Anyway when implementing topic modeling, there are different things that can be
+shown, or that can be analyzed, and some are also very fancy, but anyway a
+useful thing can be viewing the most representative text/document for a specific
+topic.
+
+
